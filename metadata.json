@@ -1,0 +1,7 @@
+{
+  "name": "EcoApo Propiedades | Inmobiliaria de Alta Gama",
+  "description": "Sitio web de corretaje inmobiliario, desarrollos sustentables y tasaciones de alta gama para EcoApo en Buenos Aires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
